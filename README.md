@@ -7,7 +7,7 @@
 
 ## 📊 Project Overview
 
-This project explores customer segmentation using machine learning techniques to help a leading retail company understand and target their customer base more effectively. By analyzing personality, demographics, and purchase behavior, the goal is to identify actionable customer segments that can drive personalized marketing and business strategy.
+For my very first Python project, this project explores customer segmentation using machine learning techniques to help a leading retail company understand and target their customer base more effectively. By analyzing personality, demographics, and purchase behavior, the goal is to identify actionable customer segments that can drive personalized marketing and business strategy.
 
 ---
 
